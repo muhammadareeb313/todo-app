@@ -1,0 +1,15 @@
+.editbtn{
+color: white;
+    margin: 5px;
+    background-color: black;
+}
+.delbtn{
+    margin: 5px;
+    color: white;
+    background-color: black;
+}
+.Center{
+text-align: center;}
+li{
+    list-style: none;
+}
