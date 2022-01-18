@@ -8,6 +8,7 @@ var liText=document.createTextNode(inp.value)
 li.appendChild(liText)
 var list =document.getElementById('list')
 list.appendChild(li)
+li.setAttribute('class','lis')    
 
 
 
