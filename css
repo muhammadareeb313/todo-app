@@ -11,8 +11,8 @@
     <h1>Todo Application</h1>
     <div class="Center">
         <input type="text"  id="todo">
-        <button onclick="TodoApp()">Add</button>
-        <button onclick="deleteAll()">Delete</button>
+        <button class="btn" onclick="TodoApp()">Add</button>
+        <button class="btn" onclick="deleteAll()">Delete</button>
     </div>
     <div class="Center">
         <ul id="list">
