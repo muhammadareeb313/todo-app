@@ -8,6 +8,8 @@
     background-color: black;
 }.lis{
     margin: 5px;
+    font-size:30px;
+    font-weight:bold;
     
 }
 .delbtn{
@@ -23,6 +25,7 @@
 text-align: center;}
 li{
     list-style: none;
+    
 }body{
  background-color: aqua;
 }
